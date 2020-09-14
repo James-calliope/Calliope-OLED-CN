@@ -1,0 +1,14 @@
+{
+    "name": "Oled96液晶屏",
+    "version": "1.0.0",
+    "description": "Oled96液晶屏扩展库汉化版",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "blocks-oled96.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
